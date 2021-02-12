@@ -3,3 +3,6 @@
  * You probably need to 'import' stuff from 'db' if using a database.
  * Then you can create methods such as 'index,' 'create(payload),' etc.
  */
+getAllMovies() {
+  fetch()
+}
